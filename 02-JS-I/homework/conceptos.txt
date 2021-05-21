@@ -1,0 +1,33 @@
+Variables
+
+Una variable es como imaginar un cajón o un baúl, donde puedes guardar diferentes cosas, la diferencia acá es que una variable solo almacena un unico tipo de cosa, por darte un ejemplo,
+Imagina un gavetero y en la primera gaveta guardamos camisas, entonces la primera gaveta seria una variable llamada camisas, la de abajo se llama pantalones entonces guardamos solamente pantalones.
+Las variables se le puede modificar su información en cualquier momento sin necesidad de cambiar su nombre, basicamente es sacar en las gavetas de las camisas, las camisas y meter por ejemplo boxers.
+
+Strings
+
+Los strings es una palabra clave que le explica a la computadora que vamos a escribir texto humano, aqui puedes poner todo lo que quieras, todas las teclas del planera, por ejemplo numeros, tildes, letras y demás
+si es cierto existen ciertas configuraciones que inclusive adentro de un string lo detecta como una acción la computadora pero estas acostumbran estar con una barra inclinidad
+por ejemplo \n que significa salto de línea.
+
+Funciones (argumentos, return)
+
+Una función yo lo traduzco en verbo por ejemplo, tomar, tu tomas, yo tomo, el y ella toman, nosotros tomamos, etc... una función es una acción por ejemplo la acción nuevamente de tomar, pensemos 
+en una función llamada tomarAgua para ser mas claro ok ya existe pero como la computadora sabe que es tomar agua? esto es la parte lógica dentro de la función, es decir el código a ejecutar,
+el algoritmo o el paso a paso de como hacerlo, los argumentos son variables que se crean dentro de los parentesis que usamos para poder correr de mejor manera una función por ejemplo llamemos dentro de la Funcione
+los argumentos nombre y vaso entonces seria algo asi function tomarAgua(nombre, vaso) luego abrimos corchetes { y dentro de ellos la accion  por ejemplo, var pNombre = nombre; 
+var pVaso = vaso; después de esto aplicamos que queremos hacer if(pVaso > 1 && pNombre.length > 0){
+    return "Sirva un vaso con agua a " + " " + pNombre;
+}else{
+    return "No sirva el agua porque no hay dueño";
+}}
+
+Como puedes ver servimos el agua solo si tenemos una persona a quien se le entregue el agua sino no lo hacemos. El return se utiliza para devolver un valor que ocupamos para poder mostrar.
+
+Declaraciones if
+
+Acabamos de hacer un ejemplo de ir un poco mas arriba pero basicamente un if es una condicional que signifca "si" por ejemplo si 1 es mayor a cero entonces haz esto y el else significa "sino" haz esto.
+
+Valores booleanos (true, false)
+
+Los valores booleanos en codigo binario es 0 y 1 0 es apagado false, y 1 es encendido true. es decir falso = 0 o verdadero = 1;
