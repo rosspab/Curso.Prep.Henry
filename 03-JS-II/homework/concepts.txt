@@ -1,0 +1,10 @@
+for
+
+For es un ciclo que nos permite ejecutar n cantidad de veces un codigo, por ejemplo una tienda donde solo pueden pasar 10 personas entonces el guarda debe permitir que solo 10 personas
+ingresen en el local entonces el hace un ciclo for 10 veces contando desde 0 y terminando en 9 pero el 0 es el numero 1 entonces el 9 es el numero 10 es decir cuenta, la primera
+persona es el numero 0 entonces 0 1 2 3 4 5 6 7 8 9 y listo llego a 10.
+
+&&, ||, !
+
+Los simbolos anteriores en orden es "y", "or" y "no", esto funciona cuando ponemos varias condiciones, por ejemplo nuevamente para entrar a la tienda tienen que ser 10 personas
+y que tenga temperatura menor a 40 grados entonces usamos && porque esta verificando dos condiciones. 
